@@ -1,0 +1,19 @@
+[debug] [2021-12-04T05:50:05.413Z] ----------------------------------------------------------------------
+[debug] [2021-12-04T05:50:05.416Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ajumo\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2021-12-04T05:50:05.417Z] CLI Version:   9.23.0
+[debug] [2021-12-04T05:50:05.417Z] Platform:      win32
+[debug] [2021-12-04T05:50:05.417Z] Node Version:  v14.15.1
+[debug] [2021-12-04T05:50:05.418Z] Time:          Sat Dec 04 2021 00:50:05 GMT-0500 (Eastern Standard Time)
+[debug] [2021-12-04T05:50:05.419Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-12-04T05:50:05.422Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2021-12-04T05:50:06.606Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2021-12-04T05:50:06.607Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=346974316&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
